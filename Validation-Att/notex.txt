@@ -1,0 +1,15 @@
+<input type="text"  validation attributes />
+
+requried
+readonly
+disabled
+name
+id
+placeholder
+value
+min
+max 
+minlength
+maxlength
+tabindex
+pattern
